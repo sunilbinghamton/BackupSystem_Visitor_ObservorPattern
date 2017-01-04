@@ -1,15 +1,3 @@
-CS542 Design Patterns
-Fall 2016
-PROJECT 4 README FILE
-
-Due Date: <Wednesday, November 23, 2016>
-Submission Date: <Wednesday, November 23, 2016>
-Grace Period Used This Project: 0 Days
-Grace Period Remaining: 0 Days
-Author(s): Sunil Kumar Sahu 
-e-mail(s): ssahu1@binghamton.edu
-
-
 PURPOSE:
 
 This java program introduces design patterns to implement a backup system.
@@ -75,18 +63,5 @@ ant run
 
 
 Note : Input file and output files not provided in tar.gz
-
-EXTRA CREDIT:
-
-N/A
-
-
-BIBLIOGRAPHY:
-
-This serves as evidence that we are in no way intending Academic Dishonesty.
-
-ACKNOWLEDGEMENT:
-
-None
 
 
